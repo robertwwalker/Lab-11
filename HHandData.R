@@ -1,3 +1,4 @@
+rm(list=ls())
 require(RcmdrPlugin.HH)
 fresh.data <- structure(list(Fresh.Demand = c(7.38000011444092, 8.51000022888184, 
 9.52000045776367, 7.5, 9.32999992370605, 8.27999973297119, 8.75, 
